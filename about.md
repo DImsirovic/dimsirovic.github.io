@@ -14,4 +14,4 @@ article_header:
 ---
 
 ## About
-Welcome to my about page!
+Welcome to my site!
