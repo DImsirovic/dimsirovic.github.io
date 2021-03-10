@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: home
 title: Data Scientist. Communicator.
 header:
   theme: dark
