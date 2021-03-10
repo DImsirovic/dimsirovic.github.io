@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Dinko Imsirovic
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Dinko Imsirovic
 
 
 ## => Language and Timezone
@@ -38,7 +38,7 @@ author:
   name      : Dinko Imsirovic
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : Data Scientist. Communicator. Musician.
+  bio       : #
   email     : dimsirov@umich.edu
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : DImsirovic
@@ -62,8 +62,8 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : "/about.html" # title link url, "/" (default)
-  home    : "/about.html" # home layout url, "/" (default)
+  root    : "/" # title link url, "/" (default)
+  home    : "/" # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
