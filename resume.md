@@ -17,4 +17,4 @@ articles:
 ---
 
 ## Resume
-Hopefully this is where a pdf of my resume will show up lmfao
+Under Construction
